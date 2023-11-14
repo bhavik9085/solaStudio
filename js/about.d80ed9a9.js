@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunksola"]=self["webpackChunksola"]||[]).push([[443],{9983:function(n,u,r){r.r(u),r.d(u,{default:function(){return i}});var s=r(3396);const t={class:"about"},a=(0,s._)("h1",null,null,-1),e=[a];function l(n,u){return(0,s.wg)(),(0,s.iD)("div",t,e)}var c=r(89);const o={},f=(0,c.Z)(o,[["render",l]]);var i=f}}]);
-//# sourceMappingURL=about.d80ed9a9.js.map
